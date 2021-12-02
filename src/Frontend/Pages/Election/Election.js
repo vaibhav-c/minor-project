@@ -4,7 +4,6 @@ import Menubar from '../../Components/Menubar/Menubar';
 import Carousel from 'react-elastic-carousel';
 import ReactFileReader from 'react-file-reader';
 import axios from 'axios';
-import { getMaxListeners } from '../../../../Server/models/auth_models';
 import { Context } from '../../../Context/context';
 import CustomModal from '../../Modal/Modal';
 
