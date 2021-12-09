@@ -6,6 +6,7 @@ import ReactFileReader from 'react-file-reader';
 import axios from 'axios';
 import { Context } from '../../../Context/context';
 import CustomModal from '../../Modal/Modal';
+import { login, logout } from "../../../utils";
 
 
 const Election = (props) => {
